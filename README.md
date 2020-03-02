@@ -24,3 +24,11 @@ A calculator that can handle expresions and differentiate. There are five pre-ex
 * &y
 * result: 10
 
+# Operators
+* + additon
+* - subtraction
+* * multiplication
+* / division
+* " declare expresion
+* ' differentiate
+* & evalutation
