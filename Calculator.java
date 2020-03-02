@@ -20,7 +20,7 @@ public class Calculator {
   }
   
   public static void main(String[] args) throws IOException {
-    System.out.println("Symbolic calculator version 2016-10-04");
+    System.out.println("Symbolic calculator");
     Stokenizer tokenizer = new Stokenizer();   
     Calculator calc = new Calculator(tokenizer);
     while (true) {
