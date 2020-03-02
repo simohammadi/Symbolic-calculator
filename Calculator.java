@@ -1,8 +1,5 @@
 /**
  * Symbolic calculator
- * 
- * This class should NOT be changed in any way
- * 
  */
 import java.util.*;
 import java.io.*;
