@@ -1,6 +1,6 @@
 # Symbolic-calculator
 
-A calculator that can handle expresions and differentiate. There are five preexisting functions sin(x), cos(x), log(x), exp(x) and abs(x).
+A calculator that can handle expresions and differentiate. There are five pre-existing functions sin(x), cos(x), log(x), exp(x) and abs(x).
 
 * To define a expression use "(expresion)
 * To define a variable use constant/expression=var
